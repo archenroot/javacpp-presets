@@ -503,6 +503,7 @@
         </property>
       </activation>
       <modules>
+        <module>gunrock</module>
         <module>opencv</module>
         <module>ffmpeg</module>
         <module>flycapture</module>
